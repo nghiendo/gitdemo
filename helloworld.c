@@ -1,5 +1,9 @@
 #include <stdio.h>
 // demo git
+int tich(int a, int b){
+	return a*b;
+}
+
 int main(){
 	printf("Hello world!");
 	return 0;
