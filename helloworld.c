@@ -7,13 +7,14 @@ int sumN(int n){
 }
 
 // demo git
-<<<<<<< HEAD
+//<<<<<<< HEAD
 int sum(int a, int b){
 	return a + b;
-=======
+}
+
 int tich(int a, int b){
 	return a*b;
->>>>>>> Khoa15
+//>>>>>>> Khoa15
 }
 
 int main(){
